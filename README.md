@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xianhui Zhu
-- 👀 I’m interested in web and app development. 
+- 👀 I’m interested in web and mobile development. 
 - 🌱 I’m currently learning react native. 
 - 💞️ I’m looking to collaborate on any great projects
 - 📫 How to reach me: xz2715@nyu.edu
