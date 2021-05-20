@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xianhui Zhu
+- 👋 Hi, I’m Xianhui(Edward) Zhu
 - 👀 I’m interested in web and mobile development. 
 - 🌱 I’m currently learning react native. 
 - 💞️ I’m looking to collaborate on any great projects
