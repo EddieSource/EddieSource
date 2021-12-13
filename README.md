@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xianhui(Edward) Zhu
-- 👀 I’m interested in web and mobile development. 
-- 🌱 I’m currently learning Go. 
+- 👀 I’m interested in backend development. 
+- 🌱 I’m currently learning Recommender System and Computer Vision. 
 - 💞️ I’m looking to collaborate on any great projects
 - 📫 How to reach me: xz2715@nyu.edu
 
